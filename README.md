@@ -4,6 +4,8 @@ Nuestro objetivo fue resolver un desafío real mediante el diseño y desarrollo 
 
 ![imagen de canva](Imagenes/foto_canva.jpg)
 # Presentación:)
+
+![imagen de WhatsApp](Imagenes/almendra.jpg)
 - **Almendra Yataco**
   - **Edad:** 18 años
   - **Sobre mí:** Me gusta compartir con mis amigos y probar cosas nuevas para salir de la rutina 
@@ -12,6 +14,8 @@ Nuestro objetivo fue resolver un desafío real mediante el diseño y desarrollo 
     - Implementar movimientos y funciones
     - Probar y corregir errores del sistema
     - Integrar modelos y elementos gráficos
+      
+![imagen de WhatsApp](Imagenes/luciana.jpg)
 - **Luciana Vega**
   - **Edad:** 18 años
   - **Sobre mí:** Me encanta la tecnología aplicada a la salud. También disfruto salir con mis amigos y aprovechar cada momento al máximo.
@@ -20,6 +24,8 @@ Nuestro objetivo fue resolver un desafío real mediante el diseño y desarrollo 
     - Crear modelos tridimensionales
     - Aplicar texturas y materiales
     - Optimizar y adaptar los modelos para el proyecto
+      
+![imagen de WhatsApp](Imagenes/nahir.jpg)
 - **Nahir Valladares**
   - **Edad:** 18 años
   - **Sobre mí:** Me encanta la danza, aficionada por la ciencia y la tecnología, siempre dispuesta a aprender
@@ -28,6 +34,8 @@ Nuestro objetivo fue resolver un desafío real mediante el diseño y desarrollo 
     - Apoyo en el desarrollo del sistema eléctrico
     - Elaboración del sistema y organización de componentes 
     - Verificación de electrónica y funcionamiento del proyecto
+      
+![imagen de WhatsApp](Imagenes/stela.jpg)
 - **Stela Villagomez**
   - **Edad:** 18 años
   - **Sobre mí:** Me gusta escuchar música, leer y ver series. Me apasiona resolver problemas, enfrentar nuevos retos y aprender cosas nuevas.
@@ -36,6 +44,8 @@ Nuestro objetivo fue resolver un desafío real mediante el diseño y desarrollo 
     - Organización y coordinación del equipo
     - Planificación y supervisión de actividades
     - Asegurar el cumplimiento de los objetivos del grupo
+      
+![imagen de WhatsApp](Imagenes/carla.jpg)
 - **Carla Victoria**
   - **Edad:** 18 años
   - **Sobre mí:** Ingeniera biomédica enfocada en crear soluciones que unan la ciencia y la tecnología al servicio de la salud.
@@ -44,6 +54,8 @@ Nuestro objetivo fue resolver un desafío real mediante el diseño y desarrollo 
     - Buscar información relevante para el proyecto
     - Analizar y seleccionar datos útiles
     - Compartir hallazgos con el equipo
+      
+![imagen de WhatsApp](Imagenes/ulloa.jpg)
 - **Carla Ulloa**
   - **Edad:** 18 años
   - **Sobre mí:** Apasionada por las imágenes biomédicas y el desarrollo de nuevas tecnologías
