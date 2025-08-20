@@ -44,5 +44,11 @@ Nuestro objetivo fue resolver un desafío real mediante el diseño y desarrollo 
     - Buscar información relevante para el proyecto
     - Analizar y seleccionar datos útiles
     - Compartir hallazgos con el equipo
-
-![imagen de WhatsApp](Imagenes/foto_grupal.jpg)
+- **Carla Ulloa**
+  - **Edad:** 18 años
+  - **Sobre mí:** Apasionada por las imágenes biomédicas y el desarrollo de nuevas tecnologías
+  - **Rol:** Diseño 3D y Gestora del Repositorio
+  - **Responsabilidades:**
+    - Diseño y modelado 3D de estructuras y dispositivos biomédicos utilizando software especializado
+    - Optimización y adaptación de modelos 3D para su aplicación en tecnologías biomédicas
+![imagen de WhatsApp](Imagenes/foto_grupal2.jpg)
